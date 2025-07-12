@@ -354,6 +354,4 @@ Empirical VaR backtests showing 8% accuracy improvement.
 
 *Updated document hash:* SHA3-256: `b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z7`  
 
-**Digital Signature:** [Verified ed25519 signature here]
-
 **License:** CC BY 4.0 International.
