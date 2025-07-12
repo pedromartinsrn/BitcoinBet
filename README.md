@@ -273,10 +273,6 @@ Identify tipping points in volatility regimes.
 
 **Batch:** ZK-rollups for compression.
 
-**New in v1.1: Testnet Metrics**
-- TPS: 1,500 average
-- Latency: 50ms median
-
 ---
 
 ## 8. Security Analysis
@@ -305,77 +301,7 @@ Identify tipping points in volatility regimes.
 
 ---
 
-## 9. Economic Incentives
-
-### 9.1 Tokenomics
-
-**NITI Token:** Added deflationary burns.
-
-### 9.2 Incentive Alignment
-
-**Oracles:** MEV-protected rewards.
-
-### 9.3 Governance
-
-**Voting:** Quadratic for fairness.
-
----
-
-## 10. Performance Analysis
-
-### 10.1 Scalability
-
-**Throughput:** 15,000 TPS theoretical (v1.1 update).
-
-### 10.2 Resources
-
-**Complexity:** Optimized with parallelism.
-
-### 10.3 Network
-
-**Analysis:** Queueing theory models.
-
-**Table 10.1: Benchmarks**
-
-| Metric | v1.0 | v1.1 |
-|--------|------|------|
-| TPS | 1,000 | 1,500 |
-| Latency | 100ms | 50ms |
-| Storage/Contract | 1KB | 800B |
-
----
-
-## 11. Compliance and Regulatory Considerations
-
-### 11.1 Framework
-
-**Updated:** MiCA/EU compliance notes.
-
-### 11.2 Risks
-
-**Expanded:** Climate impact (energy-efficient design).
-
----
-
-## 12. Future Developments
-
-### 12.1 Roadmap
-
-**Phase 1:** Completed (testnet live).
-**Phase 2:** Ongoing (mainnet Q3 2025).
-**Phase 3:** AI oracles, L3 integrations.
-
-### 12.2 Research
-
-**Added:** MEV minimization.
-
-### 12.3 Ecosystem
-
-**Tools:** Expanded SDK with Rust/JS bindings.
-
----
-
-## 13. Conclusion
+Conclusion
 
 NITI advances Bitcoin finance with enhanced security, economics, and scalability. v1.1 builds on v1.0 with practical improvements and forward-looking features.
 
